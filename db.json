@@ -1,0 +1,68 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "testcases": [
+    {
+      "id":1,
+      "name": "Ram",
+      "passtestcase": 1,
+      "failtestcase":5,
+      "unknowntestcase":6
+    },
+    {
+      "id": 2,
+      "name": "Ramu",
+      "passtestcase": 6,
+      "failtestcase":5,
+      "unknowntestcase":2
+    },
+    {
+      "id": 3,
+      "name": "Raju",
+      "passtestcase": 63,
+      "failtestcase":25,
+      "unknowntestcase":6
+    },
+    {
+      "id":4,
+      "name": "Jhon",
+      "passtestcase": 70,
+      "failtestcase":25,
+      "unknowntestcase":5
+    },
+    {
+      "id": 5,
+      "name": "Peter",
+      "passtestcase": 46,
+      "failtestcase":20,
+      "unknowntestcase":4
+    },
+    {
+      "id": 6,
+      "name": "Alex",
+      "passtestcase":73,
+      "failtestcase":15,
+      "unknowntestcase":8
+    }
+  ],
+  "countries":[
+    {
+      "Country":"USA",
+      "budget":"732"
+    },
+    {
+      "Country":"UK",
+      "budget":"600"
+    },
+    {
+      "Country":"China",
+      "budget":"658"
+    }
+  ]
+ 
+}
